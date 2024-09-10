@@ -11,7 +11,7 @@ setuptools.setup(
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
     author="AKV",
-    author_email="akv.email",
+    author_email="ayushverma@vassarlabs.com",
     description="A Python library to determine if something is a number.",
     long_description=long_description,
     long_description_content_type="text/markdown",
